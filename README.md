@@ -1,2 +1,1 @@
-# LAB2-TOS
-# LAB2
+# Lab2
